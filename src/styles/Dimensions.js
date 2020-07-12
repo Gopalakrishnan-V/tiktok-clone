@@ -1,0 +1,23 @@
+class Dimensions {
+  SPACING_DWARF = 2;
+  SPACING_MINIMUM = 4;
+  SPACING_TINY = 8;
+  SPACING_MID = 12;
+  SPACING_SMALL = 16;
+  SPACING_MEDIUM = 24;
+  SPACING_LARGE = 32;
+  SPACINGE_XLARGE = 48;
+  SPACING_XXLARGE = 56;
+
+  FONT_SIZE_12 = 12;
+  FONT_SIZE_14 = 14;
+  FONT_SIZE_16 = 16;
+  FONT_SIZE_18 = 18;
+  FONT_SIZE_20 = 20;
+
+  ICON_SMALL = 20;
+  ICON_MEDIUM = 40;
+  ICON_LARGE = 56;
+}
+
+export default new Dimensions();
