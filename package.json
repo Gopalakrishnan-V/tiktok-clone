@@ -16,7 +16,7 @@
     "@react-navigation/material-bottom-tabs": "^5.2.12",
     "@react-navigation/native": "^5.6.1",
     "@react-navigation/stack": "^5.6.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "is-promise": "^4.0.0",
     "lottie-react-native": "^3.4.0",
     "moment": "^2.27.0",
